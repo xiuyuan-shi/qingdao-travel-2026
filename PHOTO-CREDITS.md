@@ -11,6 +11,7 @@ All photographs are embedded in index.html. Crops, JPEG compression, and dark ov
 - **olympic**: [File:Qingdao Olympic Sailing Center.JPG](https://commons.wikimedia.org/wiki/File:Qingdao_Olympic_Sailing_Center.JPG), 风之清扬. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). 奥帆中心与防波堤环境实拍；不是精确机位示意。 缩放至最长边1000像素并压缩JPEG；网页显示时可能裁切。
 - **church**: [St. Michael's Cathedral Qingdao 20250601](https://commons.wikimedia.org/wiki/File:St._Michael%27s_Cathedral_Qingdao_20250601.jpg), Air7538. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 青岛圣弥厄尔主教座堂（天主教堂），2025年6月实拍。 缩放至最长边1000像素并压缩JPEG；网页显示时可能裁切。
 
-- **City panorama**: [Qingdao Cityscape](https://commons.wikimedia.org/wiki/File:Qingdao_Cityscape.jpg), Leeyj0401, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Pre-2018 cityscape; generic city context, not an exact Olympic Sailing Center camera position.
+- **Home coast hero**: user-provided Qingdao coast and bathing beach overlook, authorized by the provider for display in this guide. Converted to JPEG, compressed, cropped, and darkened behind text.
+- **Home old-town card**: user-provided Qingdao cathedral, red-roofed buildings, and bay overlook, authorized by the provider for display in this guide. Converted to JPEG, compressed, cropped, and darkened behind text.
 
 Title lettering uses a four-character subset of Noto Serif SC. See Noto-Serif-LICENSE.txt (SIL Open Font License).
